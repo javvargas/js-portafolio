@@ -1,0 +1,3 @@
+[bulild]
+  publish = "dist"
+  command = "npm run build"
